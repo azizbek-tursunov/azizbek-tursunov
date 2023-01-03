@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/azizbektursunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/azizbektursunov" height="30" width="40" /></a>
-<a href="https://twitter.com/azizbektr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizbektr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azizbektursunov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azizbektursunov/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14675048/azizbek-tursunov?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14675048/azizbek-tursunov?tab=profile" height="30" width="40" /></a>
-<a href="https://instagram.com/azizbektursunov.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbektursunov.me" height="30" width="40" /></a>
+<a href="https://dev.to/azizbektursunov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/azizbektursunov" height="30" width="40" /></a>
+<a href="https://twitter.com/azizbektr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/AzizbekTR" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/azizbektursunov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/azizbektursunov/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14675048/azizbek-tursunov?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14675048/azizbek-tursunov?tab=profile" height="30" width="40" /></a>
+<a href="instagram.com/azizbektursunov.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbektursunov.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbek-tursunov&show_icons=true&locale=en" alt="azizbek-tursunov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbek-tursunov&" alt="azizbek-tursunov" /></p>
