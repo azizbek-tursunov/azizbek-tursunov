@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbek-tursunov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbek-tursunov" /> </p>
 
-- 🔭 I’m currently working on **Laravel & Vue**
+- 🔭 I’m currently working on **Symfony & Vue**
 - 📫 How to reach me **azizbektursunov@proton.me**
 
 <h3 align="left">Connect with me:</h3>
